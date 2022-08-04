@@ -1,0 +1,9 @@
+version '1.0.0'
+author 'Pektar'
+description 'Change Game and Map Name'
+
+shared_script 'config.lua'
+server_script 'server.lua'
+
+fx_version 'adamant'
+games { 'gta5' }
