@@ -1,8 +1,8 @@
-if Changer.ChnageMapName then
+if Changer.ChangeMapName then
     Citizen.CreateThread(function() Citizen.Wait(5*1000) SetMapName(Changer.MapName) end)
 end
 
-if Changer.ChnageGameType then
+if Changer.ChangeGameType then
     Citizen.CreateThread(function() Citizen.Wait(5*1000) SetGameType(Changer.GameType) end)
 end
 
