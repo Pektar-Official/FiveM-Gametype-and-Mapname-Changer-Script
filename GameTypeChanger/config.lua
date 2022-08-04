@@ -2,8 +2,8 @@ Changer = {}
 
 Changer.StartMessage = true
 
-Changer.ChnageMapName = true
+Changer.CangeMapName = true
 Changer.MapName = "YoureMapName"
 
-Changer.ChnageGameType = true
+Changer.ChangeGameType = true
 Changer.GameType = "YoureGameType"
